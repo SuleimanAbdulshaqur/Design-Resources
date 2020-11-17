@@ -3,11 +3,11 @@
 
 
 ## Design Inspirations
-[Lapa Ninja](https://www.lapa.ninja/)
-[Behance](https://www.behance.net/)
-[Dribbble](https://dribbble.com/)
-[Pinterest](https://www.pinterest.com/)
-[Mobbins](https://mobbin.design/)
+- [Lapa Ninja](https://www.lapa.ninja/)
+- [Behance](https://www.behance.net/)
+- [Dribbble](https://dribbble.com/)
+- [Pinterest](https://www.pinterest.com/)
+- [Mobbins](https://mobbin.design/)
 
 
 ## Illustrations i FW
