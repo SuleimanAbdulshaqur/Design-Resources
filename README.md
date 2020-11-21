@@ -26,6 +26,8 @@
 - [Linda Icing](https://lindaicing.github.io/resources/index.html)
 - [Lade Tawak](https://www.notion.so/Hi-I-m-Lade-Tawak-9fa5a6b0f1ce4aaf96784c736f7217ea) omo, the entire portfolio is a resource (PS check under "Resources").
 - [Asa Coterie](https://www.notion.so/Design-Articles-Resources-ddaa7bfb624f4f61a8669ebc1b175b5d)
+- [99 designs](https://99designs.com/blog/tips/graphic-design-basics/)
+
 
 
 
