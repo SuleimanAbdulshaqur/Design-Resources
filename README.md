@@ -14,6 +14,7 @@
 - [Nicely Done](https://nicelydone.club/)
 - [scrnshts](https://scrnshts.club/)
 - [NiceVeryNice](https://www.niceverynice.com/)
+- [Poster Inspiration Graphic](https://anothergraphic.org/?ref=lapaninja)
 
 
 ## UI Goodies Resources, basically market for kits and stuff 🛍
@@ -28,6 +29,7 @@
 - [Asa Coterie](https://www.notion.so/Design-Articles-Resources-ddaa7bfb624f4f61a8669ebc1b175b5d)
 - [99 designs](https://99designs.com/blog/tips/graphic-design-basics/)
 - [Good Design Practices](https://goodpractices.design/?ref=lapaninja) (Quite Insightful)
+
 
 
 
