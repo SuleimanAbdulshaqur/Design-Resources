@@ -33,6 +33,10 @@
 - [Product Club's Resource Centre](https://www.notion.so/Product-Club-s-Resource-Centre-284aa9c20de04f26a9a18649b60f0032) (Industrial Design Stuff & Product mgmt also included)
 - [Good Design Practices](https://goodpractices.design/?ref=lapaninja) (Quite Insightful)
 
+## Fonts 🔤
+- [Fontshub ... really?](https://fontshub.pro/)
+
+
 
 
 
